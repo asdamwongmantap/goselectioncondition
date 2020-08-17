@@ -1,2 +1,2 @@
-# gooperator
-Implementasi penggunaan operator menggunakan GIN Golang
+# goselectioncondition
+Repository For Learning Selection Condition On Golang
